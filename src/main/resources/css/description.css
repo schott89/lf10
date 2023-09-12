@@ -1,0 +1,14 @@
+#title {
+    -fx-text-fill: lime;
+}
+
+#backBtn {
+    -fx-background-color: #00d8ff;
+    -fx-border-radius: 2px;
+}
+
+.wrapper {
+    -fx-background-color: linear-gradient(to bottom left, #ff0000, #062ef8);
+}
+
+
