@@ -20,6 +20,7 @@ public class TestController {
     @FXML
     public void initialize() {
         detailsBtn.setStyle("-fx-background-color: "+ Color.PINK.toString().substring(2) + ";");
+        System.out.println("Testcontroller initialized");
 
 
     }
